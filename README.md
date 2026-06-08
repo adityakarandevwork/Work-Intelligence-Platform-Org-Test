@@ -416,7 +416,7 @@ repo related libraries and functions are working fine
 
 ### To do (jodhil)
 
-visit TODO.md made by the team for testing phase and complete it
+visit tests/TODO.md made by the team for testing phase and complete it
 
 
 
