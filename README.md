@@ -414,9 +414,9 @@ Contributors should prioritize readability, testability, and simplicity in all c
 repo related libraries and functions are working fine
 
 
-### To do (jodhil)
+### To do 
 
-visit tests/TODO.md made by the team for testing phase and complete it
+visit tests/Todo.md made by the team for testing phase and complete it
 
 
 
