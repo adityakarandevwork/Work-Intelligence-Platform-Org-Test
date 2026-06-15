@@ -2,7 +2,7 @@
 # Workspace Intelligence Platform
 THIS IS A COMPANY REPOSITORY AND TO BE FOLLOWED AND MAINTAINED PROPERLY
 ANY TESTING AND INSTRUCTIONS DONE ARE TO BE FOLLOWED.
--NULLZONE.AI
+!! Make sure to read this fully and proceed !!
 
 ## Overview
 
