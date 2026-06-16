@@ -1,6 +1,6 @@
 # TO DO 
 
-This set of features are to be added and testing for bot automation to be done by all for further development and changes to be made for auditors and testers for this repository. More the people test with bot automation better we can develop and improve bot scarping and development so kindly follow it as well.
+These are the set of features that are to be added and testing for bot automation to be done by all auditors, testers, and developers for this repository. Moreover, all the people to test with bot automation better we can develop and improve bot scraping and development so kindly follow it as well.
 
 - work and help with testing on the bot automation and schedule for past events for testing.
 
