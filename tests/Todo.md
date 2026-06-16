@@ -1,4 +1,6 @@
-# TO DO (these include both testing instructions and to be developed features)
+# TO DO 
+
+This set of features are to be added and testing for bot automation to be done by all for further development and changes to be made for auditors and testers for this repository. More the people test with bot automation better we can develop and improve bot scarping and development so kindly follow it as well.
 
 - add more features with employee actions
 
