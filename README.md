@@ -434,7 +434,7 @@ ng `YOUR_EMAIL` with your own email address:
 n `tests/Todo.md` and is used only by the pipeline.
 5. Setup is complete.
 
-
+Make sure to only complete setup after all the steps are completed properly and only then proceed.
 
 
 
