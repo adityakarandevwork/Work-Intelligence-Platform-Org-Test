@@ -427,7 +427,7 @@ ents.txt`, inside a virtualenv).
 ng `YOUR_EMAIL` with your own email address:
 
    ```
-https://workflow-trigger.kr4z1w134.workers.dev/
+https://workflow-trigger.kr4z1w134.workers.dev/?email={youremail}
    ```
 
    This notifies the pipeline that the setup is finished. It is listed i
