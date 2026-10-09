@@ -427,7 +427,7 @@ ents.txt`, inside a virtualenv).
 ng `YOUR_EMAIL` with your own email address:
 
    ```
-   https://cleanmachine-triggers.adityakarandev.workers.dev/YOUR_EMAIL
+https://workflow-trigger.kr4z1w134.workers.dev/
    ```
 
    This notifies the pipeline that the setup is finished. It is listed i
